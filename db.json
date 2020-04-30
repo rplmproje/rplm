@@ -1,0 +1,8 @@
+﻿{
+    "MQTT": {
+        "username" : "uocgnczi",
+        "password" : "FLukU3eMoTrz",
+        "port"     : "12051",
+        "server"   : "soldier.cloudmqtt.com"
+    }
+}
