@@ -4,7 +4,7 @@
         "id"         : "1",
         "username"   : "uocgnczi",
         "password"   : "FLukU3eMoTrz",
-        "port"       : "12051",
+        "port"       :  12051,
         "server"     : "soldier.cloudmqtt.com",
         "topic"      : "esp/test2",
         "cont_topic" : "esp/test3"
