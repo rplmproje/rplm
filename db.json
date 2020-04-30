@@ -1,8 +1,10 @@
 {
-    "RPLM_Test": {
+    "RPLM_Test":[ 
+    {
         "username" : "uocgnczi",
         "password" : "FLukU3eMoTrz",
         "port"     : "12051",
         "server"   : "soldier.cloudmqtt.com"
     }
+  ]
 }
