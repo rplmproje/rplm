@@ -1,17 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "title-one", "author": "mustafayumurtaci" },
-    { "id": 2, "title": "title-two", "author": "mustafayumurtaci" },
-    { "id": 3, "title": "title-three", "author": "mustafayumurtaci" },
-    { "id": 4, "title": "title-four", "author": "mustafayumurtaci" }
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "json-server 2", "author": "typicode" }
   ],
   "comments": [
-    { "id": 1, "body": "comments here", "postId": 1 },
-    { "id": 2, "body": "some other comments here", "postId": 4 }
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment 2", "postId": 2 }
   ],
-  "profile": [
-    { "name": "mustafayumurtaci" },
-    { "name": "yumurtacimustafa" },
-    { "name": "myumurtaci" }
-  ]
+  "profile": { "name": "typicode" }
 }
